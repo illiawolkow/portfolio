@@ -2,7 +2,7 @@
 
 const CONFIG = {
   github: {
-    username: 'immmmmortal', // Your GitHub org/user name. (This is the
+    username: 'illiawolkow', // Your GitHub org/user name. (This is the
     // only
     // required config)
   },
