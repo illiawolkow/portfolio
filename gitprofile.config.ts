@@ -44,7 +44,7 @@ const CONFIG = {
           link: 'https://github.com/immmmmortal/SneakSyncHub',
         },
         {
-          title: 'Job Scraper',
+          title: 'JobScraper',
           description:
             'JobScraper is a web scraping tool designed to extract job listings from various online job boards.',
           bulletpoints: [
